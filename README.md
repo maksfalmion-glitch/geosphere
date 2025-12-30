@@ -1,2 +1,0 @@
-# geosphere
-my project
